@@ -2,4 +2,4 @@
 
 echo "Hello world"
 
-echo "It is not snowing in Washington ritho now"
+echo "Today, it is not snowing in Washington"
